@@ -1,5 +1,5 @@
 .speech {
-    font: sans-serif;
+    font-family: sans-serif;
     font-size: 15px;
     color: black;
     margin: 12px;
@@ -20,11 +20,11 @@
     font-size: 20;
     color:blue;
 }
-.ASCANIO {
-    color:yellow;
+.GUIDO {
+    color:lightseagreen;
 }
 
-.GUIDO {
-    color:red;
+.ASCANIO {
+    color:rgb(245, 150, 164);
 }
 
