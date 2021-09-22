@@ -1,0 +1,30 @@
+.speech {
+    font: sans-serif;
+    font-size: 15px;
+    color: black;
+    margin: 12px;
+}
+
+.stage-direction {
+    font-family: Garamond, serif;
+    font-size: 21px;
+    color: black;
+    background-color: rgb(221, 230, 173);
+}
+
+.stage-direction:hover {
+    background-color: rgb(68, 226, 247);
+    color: rgb(157, 252, 119);
+}
+.name {
+    font-size: 20;
+    color: black;
+}
+.ASCANIO {
+    color: rgb(245, 109, 68);
+}
+
+.GUIDO {
+    color: rgb(247, 97, 234);
+}
+
