@@ -28,3 +28,14 @@
     color:rgb(245, 150, 164);
 }
 
+
+table { border: dashed 4px rgb(25, 8, 177);
+border-collapse: collapse;}
+table.collapsing {
+border: solid 4px;
+border-collapse: collapse;}
+td, th {border: solid 3px ;
+text-align: center;}
+tr:nth-child(even)
+{background-color: #e4e4e4;}
+
