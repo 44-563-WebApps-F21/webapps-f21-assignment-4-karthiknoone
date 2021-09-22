@@ -9,22 +9,22 @@
     font-family: Garamond, serif;
     font-size: 21px;
     color: black;
-    background-color: rgb(221, 230, 173);
+    background-color:lightsalmon;
 }
 
 .stage-direction:hover {
-    background-color: rgb(68, 226, 247);
-    color: rgb(157, 252, 119);
+    background-color:lightslategrey;
+    color: greenyellow;
 }
 .name {
     font-size: 20;
-    color: black;
+    color:blue;
 }
 .ASCANIO {
-    color: rgb(245, 109, 68);
+    color:yellow;
 }
 
 .GUIDO {
-    color: rgb(247, 97, 234);
+    color:red;
 }
 
