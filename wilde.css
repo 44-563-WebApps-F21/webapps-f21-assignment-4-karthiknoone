@@ -39,3 +39,14 @@ text-align: center;}
 tr:nth-child(even)
 {background-color: #e4e4e4;}
 
+h6.GUIDO:hover{
+    text-shadow: lightslategray;
+    border-style: outset;
+    filter: blur(1px);
+}
+
+h6.ASCANIO:hover{
+    text-shadow: rgb(245, 129, 206);
+    border-style: outset;
+    filter: brightness(1px);
+}
